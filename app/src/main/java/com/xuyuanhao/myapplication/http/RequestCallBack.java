@@ -1,7 +1,7 @@
 package com.xuyuanhao.myapplication.http;
 
 /**
- * Created by yangjw on 2016/3/4.
+ * Created by Mr.xu on 2016/3/8.
  */
 public interface RequestCallBack {
 

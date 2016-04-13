@@ -15,7 +15,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
- * Created by yangjw on 2016/3/4.
+ * Created by Mr.xu on 2016/3/8.
  * 网络请求的工具类
  */
 public class HttpUtils {

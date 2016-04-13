@@ -3,7 +3,7 @@ package com.xuyuanhao.myapplication.bean;
 import java.util.List;
 
 /**
- * Created by yangjw on 2016/3/4.
+ * Created by Mr.xu on 2016/3/8.
  */
 public class ProductInfo {
 
